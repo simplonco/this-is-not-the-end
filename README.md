@@ -2,6 +2,8 @@
 
 **Be a Pro of PHP:** keep working with [PHP](https://github.com/simplonco/php-training) and [Symfony](https://github.com/simplonco/symfony-training), try to run it on [Facebook HHVM](http://hhvm.com/) :elephant:!
 
+**Learn JS Frameworks:** like [Google AngularJS](https://angular.io/) or [Facebook React](https://facebook.github.io/react/).
+
 **Try other Linux distributions:** like the simple, lightweight distribution [ArchLinux](https://www.archlinux.org/) which [Keep It Simple](https://en.wikipedia.org/wiki/KISS_principle).
 
 **Practice your logic:** do online challenges, to earn point on [HackerRank](https://www.hackerrank.com) and [Code in Game](https://www.codingame.com)!
