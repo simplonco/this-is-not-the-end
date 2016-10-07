@@ -1,4 +1,4 @@
-# This is not the end
+# THIS IS NOT THE END
 
 **Be a Pro of PHP:** keep working with [PHP](https://github.com/simplonco/php-training) and [Symfony](https://github.com/simplonco/symfony-training), try to run it on [Facebook HHVM](http://hhvm.com/) :elephant:!
 
