@@ -4,6 +4,8 @@
 
 **Learn JS Frameworks:** like [Google AngularJS](https://angular.io/) or [Facebook React](https://facebook.github.io/react/).
 
+**Pimp your workspace (and looks like a Hacker):** use [i3 windows manager](http://i3wm.org/) and [Zsh shell](https://doc.ubuntu-fr.org/zsh)!
+
 **Try other Linux distributions:** like the simple, lightweight distribution [ArchLinux](https://www.archlinux.org/) which [Keep It Simple](https://en.wikipedia.org/wiki/KISS_principle).
 
 **Practice your logic:** do online challenges, to earn point on [HackerRank](https://www.hackerrank.com) and [Code in Game](https://www.codingame.com)!
